@@ -2,7 +2,7 @@ let resumeData = {
   imagebaseurl: "https://rbhatia46.github.io/",
   name: "Lucky Yadav",
   role: "Full Stack Web-Developer",
-  linkedinId: "Your LinkedIn Id",
+  linkedinId: "https://www.linkedin.com/in/lucky-yadav-b523a2221/",
   skypeid: "Your skypeid",
   roleDescription:
     "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
@@ -14,14 +14,14 @@ let resumeData = {
     },
     {
       name: "github",
-      url: "https://github.com/LuckyYadav786",
+      url: "https://github.com/Lucky-Yadav",
       className: "fa fa-github",
     },
   ],
   aboutme:
     "I am currently a final year student at The Indiara Gandhi University and pursuing my B.sc.Computer.Science from here. I am a Full Stack Web Developer, currently diving deeper into React.js. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   address: "India",
-  website: "https://rbhatia46.github.io",
+  website: "https://github.com/Lucky-Yadav/React-Portfolio",
   education: [
     {
       UniversityName: "The Indiara Gandhi University",
@@ -62,18 +62,18 @@ let resumeData = {
     {
       skillname: "CSS",
     },
-  //   {
-  //     skillname: "Reactjs",
-  //   },
-  //   {
-  //     skillname: "MongoDB",
-  //   },
-  //   {
-  //     skillname: "Javascript",
-  //   },
-  //   {
-  //     skillname: "Github",
-  //   },
+      {
+        skillname: "Reactjs",
+      },
+      {
+        skillname: "MongoDB",
+      },
+      {
+        skillname: "Javascript",
+      },
+      {
+        skillname: "Github",
+      },
   ],
   portfolio: [
     {
